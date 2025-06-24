@@ -35,7 +35,10 @@ Este projeto tem como objetivo criar uma página web responsiva e funcional para
    git clone https://github.com/Oberon-23/restaurante-ebac.git
 Abra o arquivo index.html no seu navegador favorito.
 
+---
+
 ## 📁 Estrutura do projeto
+
 restaurante-ebac/
 ├── css/
 │   └── main.css
