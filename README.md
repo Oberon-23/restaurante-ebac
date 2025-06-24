@@ -46,6 +46,7 @@ restaurante-ebac/
 │   └── main.js
 ├── index.html
 └── README.md
+
 --- 
 
 ## 📄 Licença
